@@ -47,7 +47,7 @@ h2 {
     flex-wrap: wrap;
     width: 700px;
     margin: 0 auto;
-    background-color: lightblue;
+    background-image: linear-gradient(to right, #FFC740, white, #FFD673);
 }
 
 .product {
@@ -134,8 +134,8 @@ h2 {
 }
 
 footer {
-    background-color: darkolivegreen;
-    color: white;
+    background-image: linear-gradient(to right, #C9F76F, #FFFF73, #67E667);
+    color: teal;
     padding: 10px;
     font-size: 20px;
 }
